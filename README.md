@@ -1,6 +1,6 @@
 # BudgetAPP_vanilaJS
 
-![screenshot aplikacije](assets/Screenshot.png)
+![screenshot aplikacije](/assets/images/Screenshot.png)
 
 ## Aplikacija za izračunavanje stanja mesečnog bužeta
 
