@@ -1,8 +1,10 @@
 # BudgetAPP_vanilaJS
 
-Aplikacija za izračunavanje stanja mesečnog bužeta
+![(assets/Screenshot.png)]
 
-Specifikacije:
+## Aplikacija za izračunavanje stanja mesečnog bužeta
+
+### Specifikacije:
 
 Postoji forma kojom se ubacuju informacije o prihodu/rashodu i ona sadrži:
     - Dropdown kojim se bira prihod/rashod
@@ -16,5 +18,5 @@ Postoje dve liste (jedna za prihode, jedna za rashode)
     
 Postoje informacije o ukupnom prihodu, ukupnom rashodu, i unupnom stanju, koji se menjaju svaki put kada se neka od lista promeni. Ukupni rashod takođe ima i informaciju koliki procenat od ukupnog prihoda čini. 
 
-Pokretanje projekta:
+### Pokretanje projekta:
 npm start
